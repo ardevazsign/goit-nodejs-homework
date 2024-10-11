@@ -12,10 +12,13 @@
   "dependencies": {
     "cors": "2.8.5",
     "cross-env": "7.0.3",
-    "express": "4.17.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
     "joi": "^17.13.3",
+    "mongoose": "^8.7.1",
     "morgan": "1.10.0",
-    "nanoid": "^5.0.7"
+    "nanoid": "^5.0.7",
+    "template": "file:"
   },
   "devDependencies": {
     "eslint": "7.19.0",
